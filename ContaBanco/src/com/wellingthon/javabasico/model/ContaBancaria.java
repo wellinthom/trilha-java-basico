@@ -1,3 +1,4 @@
+package com.wellingthon.javabasico.model;
 /**
  * <h1>ContaBancaria</h1>
  * Objeto de representação ContaBancaria

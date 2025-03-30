@@ -1,5 +1,9 @@
+package com.wellingthon;
+
 import java.util.Locale;
 import java.util.Scanner;
+
+import com.wellingthon.javabasico.model.ContaBancaria;
 
 /**
  * ContaTerminal
